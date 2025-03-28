@@ -1,4 +1,4 @@
-# Clustering Analysis of Water Quality 💧🐟
+# Problem 2: Clustering Analysis of Water Quality 💧🐟
 
 **Overview:**  
 Dive into the world of water quality analysis! This problem applies clustering techniques to water quality data to understand and protect aquatic life. We use both K-Means and Agglomerative Clustering to reveal hidden patterns.
